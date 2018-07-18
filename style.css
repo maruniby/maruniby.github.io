@@ -15,7 +15,13 @@
   #modal .content_modal {
     background: white;
     min-height: 320px; }
+.text-aboute{
 
+  width: 100%;
+  display: inline-block;
+  text-align: center;
+
+}
 .open_modal {
   display: flex !important;
   align-items: center;
